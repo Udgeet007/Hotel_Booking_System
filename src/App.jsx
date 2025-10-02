@@ -10,10 +10,12 @@ function App() {
    <>
    <div>
      { !isOwnerPath && <Navbar/>}
-   </div>
+   <div className="min-h-[70vh]">
     <Routes>
     <Route path="/" element={<Home/>}/>
     </Routes>
+   </div>
+    </div>
    </>
   )
 }
