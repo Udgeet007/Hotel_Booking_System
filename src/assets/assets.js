@@ -82,6 +82,15 @@ export const cities = [
     "India"
 ];
 
+export const sliderImages = [
+  { url: "https://images.pexels.com/photos/775219/pexels-photo-775219.jpeg" },
+  { url: "https://images.pexels.com/photos/1001965/pexels-photo-1001965.jpeg" },
+  { url: "https://images.pexels.com/photos/453201/pexels-photo-453201.jpeg" },
+  { url: "https://images.pexels.com/photos/2869215/pexels-photo-2869215.jpeg" },
+  { url: "https://images.pexels.com/photos/2290753/pexels-photo-2290753.jpeg" },
+  { url: "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg" },
+];
+
 // Exclusive Offers Dummy Data
 export const exclusiveOffers = [
     { _id: 1, title: "Summer Escape Package", description: "Enjoy a complimentary night and daily breakfast", priceOff: 25, expiryDate: "Aug 31", image: exclusiveOfferCardImg1 },
