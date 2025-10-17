@@ -3,7 +3,7 @@ import {assets, cities} from '../assets/assets';
 const HotelForm = () => {
 
     return (
-        <form className='bg-white text-gray-500 rounded-lg px-6 py-4  flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto mt-8'>
+        <form className='bg-white text-gray-500 rounded-lg px-6 py-4  flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto mt-4'>
 
             <div>
                 <div className='flex items-center gap-2'>
